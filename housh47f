@@ -24,6 +24,7 @@
             src: url(https://ramzinex.com/blog/wp-content/themes/ramzinex/assets/fonts/IRANYekanXFaNum-Regular.woff2)
         }
 
+
         @font-face {
             font-weight: 700;
             font-display: swap;
